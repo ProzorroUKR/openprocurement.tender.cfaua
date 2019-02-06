@@ -16,6 +16,7 @@ test_requires = requires + [
     'webtest',
     'python-coveralls',
     'jmespath',
+    'freezegun',
 ]
 
 docs_requires = requires + [
