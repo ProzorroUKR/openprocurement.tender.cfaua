@@ -1,3 +1,5 @@
-OpenProcurement is initiative to develop software powering tenders database and reverse auction.
+# openprocurement.tender.cfaua
 
-The Open Procurement Close FrameworkAgreement procedure is plugin to Open Procurement API software.
+## **[ARCHIVED]**
+
+Migrated to [openprocurement.api](https://github.com/ProzorroUKR/openprocurement.api)
